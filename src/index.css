@@ -424,3 +424,8 @@ i[class*="van-type-"] {
   text-decoration: underline;
   font-weight: 700;
 }
+
+.host-van-detail-image {
+  height: 100px;
+  border-radius: 5px;
+}
